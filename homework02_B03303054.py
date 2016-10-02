@@ -84,7 +84,7 @@ class HW02:
         "xxx" ： 你要填入你的答地方。
         '''
         #作業 2. 課本 Ch2. P2.19
-        self.Ch2P2_19a = "xxx"
+        self.Ch2P2_19a = "10"
         self.Ch2P2_19b = "xxx"
         self.Ch2P2_19c = "xxx"
         self.Ch2P2_19d = "xxx"
