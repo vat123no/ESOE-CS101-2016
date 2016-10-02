@@ -86,7 +86,7 @@ class HW02:
         #作業 2. 課本 Ch2. P2.19
         self.Ch2P2_19a = "10"
         self.Ch2P2_19b = "17"
-        self.Ch2P2_19c = "xxx"
+        self.Ch2P2_19c = "6"
         self.Ch2P2_19d = "xxx"
 
         #作業 3. 課本 Ch2. P2.20
